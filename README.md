@@ -1,4 +1,4 @@
-# Testimonials Grid Section Project
+# Testimonial Grid Front-end Project
 
 ## Table of contents
 
